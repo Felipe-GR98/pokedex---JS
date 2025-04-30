@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Indie Flower", cursive;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to left, #ec6969, #9b9df1);
+}
+
+.containerCard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.pokemom {
+  margin: 10px;
+  padding: 20px;
+  background-color: #8bdb84;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.imgPoke {
+  background-color: rgba(136, 133, 133, 0.5);
+  border-radius: 50%;
+}
+
+.info {
+  margin: 10px;
+}
+
+.number {
+  background-color: rgba(255, 255, 255, 0.692);
+  margin: 20px;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: large;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.name {
+  font-weight: bold;
+}
+.Type {
+  font-weight: bold;
+  font-size: medium;
+}
