@@ -1,11 +1,7 @@
-🚀 Projeto Novo no Ar!
-Fala galera! 🙌
+🎯 Concluindo mais uma etapa na jornada dev!
 
-Na semana passada finalizei meus estudos sobre APIs e, pra colocar tudo em prática, desenvolvi uma Pokédex personalizada! 🔥
-Ela mostra os nomes, tipos e status base dos Pokémon — tudo puxado direto da API! 🧠💻
+Na última semana finalizei meus estudos sobre integração com APIs e, como forma de aplicar o que aprendi, desenvolvi uma aplicação web estilo Pokédex!
 
-Foi uma experiência incrível! Aprendi muito sobre manipulação de DOM com JavaScript, e isso só me deixou mais animado pros próximos projetos que estão vindo por aí! 💡✨
+ O app consome dados diretamente de uma API e exibe nomes, tipos e status base dos Pokémon em tempo real. 🧩
 
-Se curtiu a ideia, comenta aí qual Pokémon não pode faltar numa Pokédex! 👇🔥
-
-#DevLife #JavaScript #Pokédex #API #FrontendDev #WebDev #ProjetosPessoais #Pokemon #EstudandoProgramação
+Durante o desenvolvimento, pude aprofundar bastante meu conhecimento em manipulação de DOM com JavaScript, o que foi essencial pra trazer interatividade e dinamismo à interface. 💡
